@@ -75,7 +75,7 @@ const Hero = () => {
       </section>
 
 
-          <div className="w-full  flex justify-center   absolute bottom-[-32%]  md:bottom-[-70%]  md:bottom-[-30%] lg:bottom-[-34%] xl:bottom-[-70%]   2xl:bottom-[-35%] 3xl:bottom-[-37%] z-20   bg-transparent px-4  lg:px-14 xl:px-24">
+          <div className="w-full  flex justify-center   absolute bottom-[-32%]  md:bottom-[-70%]   lg:bottom-[-34%] xl:bottom-[-60%]   2xl:bottom-[-30%] 3xl:bottom-[-37%] z-20   bg-transparent px-4  lg:px-14 xl:px-24">
           <Formdata />
         </div>
 

@@ -39,7 +39,7 @@ const Footer = () => {
                 <span>
                   <img className="h-4" src={`/location.png`} alt="" />
                 </span>
-                <span className="text-sm">445 S.Figuerea Street, Los Angele, CA 9007</span>
+                <span className="text-sm ">445 S.Figuerea Street, Los Angele</span>
               </div>
             </div>
             <div className="relative">
@@ -96,9 +96,9 @@ const Footer = () => {
             <div className=" py-1 flex justify-between items-center">
                 {/* <div><img src={footerr} alt="" /></div> */}
                 <div className=" flex md:gap-3">
-                  <span><img className="h-3" src={`/Visa.png`} alt="" /></span>
+                  <span><img className="h-4" src={`/Visa.png`} alt="" /></span>
                   <span><img className="h-4" src={`/MasterCard.png`} alt="" /></span>
-                  <span><img className="h-3" src={`/AmericanExpress.png`} alt="" /></span>
+                  <span><img className="h-4" src={`/AmericanExpress.png`} alt="" /></span>
                   </div>
                 <p className="text-[0.5rem] md:text-xs opacity-60 ">&copy; 2025 - All Rights Reserved</p>
                 <p className="text-[0.5rem] md:text-xs opacity-60">Term of Use | Privacy Policy</p>

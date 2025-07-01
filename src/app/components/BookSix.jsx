@@ -40,7 +40,7 @@ const BookSix = () => {
                     <div><img src={`/bookTwo.png`} alt="" /></div>
                     <div><img src={`/bookThree.png`} alt="" /></div>
                     <div><img src={`/bookFour.png`} alt="" /></div>
-                    <div><img src={`/bookfive.png`} alt="" /></div>
+                    <div><img src={`/bookFive.png`} alt="" /></div>
                     <div><img src={`/bookSix.png`} alt="" /></div>
                 </div>
           </div>
