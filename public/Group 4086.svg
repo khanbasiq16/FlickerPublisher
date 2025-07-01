@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="758" height="779" viewBox="0 0 758 779">
+  <defs>
+    <filter id="Rectangle_3" x="0" y="674" width="320" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17" x="276" y="674" width="385" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4086" data-name="Group 4086" transform="translate(-117 -6851)">
+    <text id="Author_Website_Development" data-name="Author Website Development" transform="translate(140 6902)" fill="#2e234b" font-size="60" font-family="Distrampler"><tspan x="0" y="0">Author Website Development</tspan></text>
+    <text id="Like_other_strong_professions_authorship_also_needs_powerful_branding._And_a_website_does_exactly_this_and_more._It_is_your_dedicated_space_on_the_internet_that_Establishes_your_first_impression_and_marks_your_footprint_in_the_literary_world" data-name="Like other strong professions, authorship also needs powerful branding. And a website does exactly this and more. It is your dedicated space on the internet that
+
+      Establishes your first impression and marks your footprint in the 
+      literary world" transform="translate(140 6950)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="21">Like other strong professions, authorship also needs powerful </tspan><tspan x="0" y="51">branding. And a website does exactly this and more. It is your </tspan><tspan x="0" y="81">dedicated space on the internet that</tspan><tspan x="0" y="111"></tspan><tspan x="0" y="141" xml:space="preserve">      Establishes your first impression and marks your footprint in the </tspan><tspan x="0" y="171" xml:space="preserve">      literary world.</tspan><tspan x="0" y="201" xml:space="preserve">      Works as your digital storefront and a marketing representative </tspan><tspan x="0" y="231" xml:space="preserve">      that serves round the clock.</tspan><tspan x="0" y="261" xml:space="preserve">      Showcases your bestsellers, connects readers to your work and </tspan><tspan x="0" y="291" xml:space="preserve">      builds your long-term credibility.</tspan><tspan x="0" y="321"></tspan><tspan x="0" y="351">That’s why, we create professional author websites that are mobile-</tspan><tspan x="0" y="381">friendly, optimized for search engines, and speak your genre, tone, </tspan><tspan x="0" y="411">and desired impact. </tspan><tspan x="0" y="441">Fleck Publisher’s author website development services include </tspan><tspan x="0" y="471">homepage design, book landing pages, blog setup, email capture </tspan><tspan x="0" y="501">tools, and integration with sales platforms. </tspan><tspan x="0" y="531">Are you ready to build a custom book website that helps you launch </tspan><tspan x="0" y="561">and scale your reach, drive book sales, and grow your readership?</tspan></text>
+    <g id="Group_4085" data-name="Group 4085">
+      <g id="Group_31" data-name="Group 31" transform="translate(-552 5750)">
+        <g transform="matrix(1, 0, 0, 1, 669, 1101)" filter="url(#Rectangle_3)">
+          <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(23 697)" fill="#f3f2fa" stroke="#2e234b" stroke-width="1">
+            <rect width="260" height="45" stroke="none"/>
+            <rect x="0.5" y="0.5" width="259" height="44" fill="none"/>
+          </g>
+        </g>
+        <text id="Build_my_website" data-name="Build my website" transform="translate(822 1828)" fill="#2e234b" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-85" y="0">Build my website</tspan></text>
+      </g>
+      <g id="Group_32" data-name="Group 32" transform="translate(-552 5750)">
+        <g transform="matrix(1, 0, 0, 1, 669, 1101)" filter="url(#Rectangle_17)">
+          <rect id="Rectangle_17-2" data-name="Rectangle 17" width="325" height="45" transform="translate(299 697)" fill="#2e234b"/>
+        </g>
+        <text id="Plan_my_book" data-name="Plan my book" transform="translate(1132 1828)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-68" y="0">Plan my book</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

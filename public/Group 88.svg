@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1498" height="951" viewBox="0 0 1498 951">
+  <defs>
+    <filter id="Rectangle_18" x="644" y="0" width="854" height="951" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-color="#2e234b" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_88" data-name="Group 88" transform="translate(-234 -9006)">
+    <g id="Group_87" data-name="Group 87" transform="translate(94 131)">
+      <text id="Have_an_amazing_idea_We_have_the_roadmap_to_make_it_happen_" data-name="Have an amazing idea? We have the roadmap to make it happen!" transform="translate(140 9142)" fill="#2e234b" font-size="60" font-family="Distrampler"><tspan x="0" y="51">Have an amazing idea? </tspan><tspan x="0" y="119">We have the roadmap to </tspan><tspan x="0" y="187">make it happen!</tspan></text>
+      <text id="Ready_to_become_an_acclaimed_writer_" data-name="Ready to become an acclaimed writer?" transform="translate(140 9115)" fill="#2e234b" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Ready to become an acclaimed writer?</tspan></text>
+      <text id="Working_with_Fleck_Publisher_gives_you_access_to_1:1_coaching_and_support_sessions_with_expert_ghostwriters_experienced_literary_agents_and_beta_testing_readers_who_ll_navigate_the_publishing_maze_for_you_by_refining_your_ideas_preserving_your_tone_of_vo" data-name="Working with Fleck Publisher gives you access to 1:1 coaching and support sessions with expert ghostwriters, experienced literary agents and beta testing readers who’ll navigate the publishing maze for you by refining your ideas, preserving your tone of vo" transform="translate(140 9370)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="21">Working with Fleck Publisher gives you access to 1:1 coaching and </tspan><tspan x="0" y="51">support sessions with expert ghostwriters, experienced literary </tspan><tspan x="0" y="81">agents and beta testing readers who’ll navigate the publishing </tspan><tspan x="0" y="111">maze for you by refining your ideas, preserving your tone of voice, </tspan><tspan x="0" y="141">highlighting your ORIGINAL message and strategize your overall </tspan><tspan x="0" y="171">process so you can focus on developing authorship globally with </tspan><tspan x="0" y="201">full control, creativity, confidence and credit! Ready to launch an </tspan><tspan x="0" y="231">ebook that’s yet to make an impact? </tspan></text>
+    </g>
+    <g id="Group_86" data-name="Group 86" transform="translate(0 -2)">
+      <g transform="matrix(1, 0, 0, 1, 234, 9008)" filter="url(#Rectangle_18)">
+        <g id="Rectangle_18-2" data-name="Rectangle 18" transform="translate(734 90)" fill="#f3f2fa" stroke="#2e234b" stroke-width="3">
+          <rect width="674" height="771" rx="13" stroke="none"/>
+          <rect x="1.5" y="1.5" width="671" height="768" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_85" data-name="Group 85" transform="translate(0 3)">
+        <g id="Group_25" data-name="Group 25" transform="translate(760.741 7947)">
+          <text id="Spring_Sale:_Launch_Your_Book_at_50_Off_" data-name="Spring Sale: Launch Your
+Book at 50% Off!" transform="translate(311 1251)" fill="#2e234b" font-size="50" font-family="Distrampler"><tspan x="0" y="0">Spring Sale: Launch Your</tspan><tspan x="0" y="56">Book at </tspan><tspan y="56" fill="red">50% Off!</tspan></text>
+          <path id="Path_28" data-name="Path 28" d="M9.285,45.238H0V.407H44.741V45.238H18.027V36.207H35.655V9.384H9.05v9.032H26.841v8.977H9.05Z" transform="translate(248.259 1212.593)" fill="#2e234b"/>
+        </g>
+        <g id="Group_27" data-name="Group 27" transform="translate(726 8282)">
+          <text id="Please_check_the_box_to_allow_communication_via_SMS_or_email_see_our_Privacy_Policy_and_Terms_Conditions_._Standard_carrier_rates_may_apply_for_SMS._You_may_unsubscribe_at_any_time_by_replying_STOP_or_UNSUBSCRIBE." data-name="Please check the box to allow communication via SMS or email (see our Privacy Policy and Terms &amp; Conditions). Standard carrier rates may apply for SMS. You may unsubscribe at any time by replying STOP or UNSUBSCRIBE." transform="translate(297 1376)" fill="#2e234b" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="15">Please check the box to allow communication via SMS or email (see our </tspan><tspan y="15" font-family="Poppins-Medium, Poppins" font-weight="500" text-decoration="underline">Privacy </tspan><tspan x="0" y="36" font-family="Poppins-Medium, Poppins" font-weight="500" text-decoration="underline">Policy </tspan><tspan y="36">and </tspan><tspan y="36" font-family="Poppins-Medium, Poppins" font-weight="500" text-decoration="underline">Terms &amp; Conditions</tspan><tspan y="36">). Standard carrier rates may apply for SMS. You </tspan><tspan x="0" y="57">may unsubscribe at any time by replying STOP or UNSUBSCRIBE.</tspan></text>
+          <g id="Rectangle_114" data-name="Rectangle 114" transform="translate(278 1381)" fill="none" stroke="#2e234b" stroke-width="2">
+            <rect width="12" height="12" stroke="none"/>
+            <rect x="1" y="1" width="10" height="10" fill="none"/>
+          </g>
+        </g>
+        <g id="Group_81" data-name="Group 81" transform="translate(1004 9314)">
+          <rect id="Rectangle_110" data-name="Rectangle 110" width="603" height="60" fill="#d2cfdd"/>
+          <text id="Full_Name_" data-name="Full Name*" transform="translate(25 36)" fill="#2e234b" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Full Name*</tspan></text>
+        </g>
+        <g id="Group_82" data-name="Group 82" transform="translate(1004 9400)">
+          <rect id="Rectangle_113" data-name="Rectangle 113" width="603" height="60" fill="#d2cfdd"/>
+          <text id="Phone_" data-name="Phone*" transform="translate(25 36)" fill="#2e234b" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Phone*</tspan></text>
+        </g>
+        <g id="Group_83" data-name="Group 83" transform="translate(1004 9486)">
+          <rect id="Rectangle_112" data-name="Rectangle 112" width="603" height="60" fill="#d2cfdd"/>
+          <text id="Email_" data-name="Email*" transform="translate(25 36)" fill="#2e234b" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Email*</tspan></text>
+        </g>
+        <g id="Group_84" data-name="Group 84" transform="translate(1004 9572)">
+          <rect id="Rectangle_111" data-name="Rectangle 111" width="603" height="60" fill="#d2cfdd"/>
+          <text id="I_m_in_search_of..." data-name="I’m in search of..." transform="translate(25 36)" fill="#2e234b" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">I’m in search of...</tspan></text>
+        </g>
+        <g id="Group_28" data-name="Group 28" transform="translate(-309 8375)">
+          <rect id="Rectangle_115" data-name="Rectangle 115" width="603" height="60" transform="translate(1313 1371)" fill="#2e234b"/>
+          <text id="Submit" transform="translate(1579 1408)" fill="#f3f2fa" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Submit</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="940" viewBox="0 0 1920 940">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_141" data-name="Rectangle 141" width="13.506" height="21.97" fill="#f3f2fa"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_141-2" data-name="Rectangle 141" width="13.506" height="21.97" fill="#2e234b"/>
+    </clipPath>
+  </defs>
+  <g id="Group_97" data-name="Group 97" transform="translate(0 -9815)">
+    <rect id="Rectangle_142" data-name="Rectangle 142" width="1920" height="940" transform="translate(0 9815)" fill="#f3f2fa"/>
+    <g id="Group_96" data-name="Group 96" transform="translate(0 60)">
+      <text id="Frequently_Asked_Questions_FAQs_" data-name="Frequently Asked Questions (FAQs)" transform="translate(517 9896)" fill="#2e234b" font-size="60" font-family="Distrampler"><tspan x="0" y="0">Frequently Asked Questions (FAQs)</tspan></text>
+      <text id="Have_questions_about_publishing_your_book_with_Fleck_Publisher_You_re_not_alone_We_ve_compiled_answers_to_the_most_common_questions_our_authors_ask_from_getting_started_to_launching_your_book_into_the_world._If_you_need_more_help_our_team_is_always_here" data-name="Have questions about publishing your book with Fleck Publisher? You&apos;re not alone! We&apos;ve compiled answers to the most common questions our authors ask—from getting started to launching your book into the world. If you need more help, our team is always here" transform="translate(344 9928)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-592" y="21">Have questions about publishing your book with Fleck Publisher? You&apos;re not alone! We&apos;ve compiled answers to the most </tspan><tspan x="-610" y="51">common questions our authors ask—from getting started to launching your book into the world. If you need more help, our </tspan><tspan x="-167" y="81">team is always here to assist you.</tspan></text>
+      <g id="Group_95" data-name="Group 95" transform="translate(344 10075.219)">
+        <rect id="Rectangle_111" data-name="Rectangle 111" width="1232" height="171" fill="#2e234b"/>
+        <g id="Group_90" data-name="Group 90" transform="translate(40 34)">
+          <g id="Group_89" data-name="Group 89">
+            <text id="How_do_I_get_started_with_Fleck_Publisher_" data-name="How do I get started with Fleck Publisher?" transform="translate(0 26)" fill="#f3f2fa" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">How do I get started with Fleck Publisher?</tspan></text>
+            <g id="Group_72" data-name="Group 72" transform="translate(1151.991 11) rotate(90)">
+              <g id="Group_71" data-name="Group 71" transform="translate(0 0)" clip-path="url(#clip-path)">
+                <path id="Path_35" data-name="Path 35" d="M.066,11.175,2.9,14.01l2.293-2.293v4.6L10.742,21.9a.4.4,0,0,0,.438,0l2.328-2.38L5.229,11.175a.229.229,0,0,1,0-.385l8.278-8.331L11.179.079a.341.341,0,0,0-.438,0L.066,10.79a.315.315,0,0,0,0,.385" transform="translate(-0.001 0.001)" fill="#f3f2fa" fill-rule="evenodd"/>
+              </g>
+            </g>
+          </g>
+          <text id="Getting_started_is_easy_Simply_submit_your_manuscript_or_book_idea_through_our_website_or_contact_our_team_directly._We_ll_guide_you_through_the_entire_publishing_process_from_start_to_finish." data-name="Getting started is easy! Simply submit your manuscript or book idea through our website or contact our team directly. We’ll guide you through the entire publishing process from start to finish." transform="translate(0 55)" fill="#f3f2fa" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Getting started is easy! Simply submit your manuscript or book idea through our website or contact our team directly. We’ll guide you </tspan><tspan x="0" y="42">through the entire publishing process from start to finish.</tspan></text>
+        </g>
+      </g>
+      <g id="Group_91" data-name="Group 91" transform="translate(344 10275.77)">
+        <rect id="Rectangle_143" data-name="Rectangle 143" width="1232" height="60" fill="#d2cfdd"/>
+        <text id="Do_I_retain_the_rights_to_my_book_" data-name="Do I retain the rights to my book?" transform="translate(40 39)" fill="#2e234b" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Do I retain the rights to my book?</tspan></text>
+        <g id="Group_72-2" data-name="Group 72" transform="translate(1170.021 37.506) rotate(-90)">
+          <g id="Group_71-2" data-name="Group 71" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+            <path id="Path_35-2" data-name="Path 35" d="M.066,11.175,2.9,14.01l2.293-2.293v4.6L10.742,21.9a.4.4,0,0,0,.438,0l2.328-2.38L5.229,11.175a.229.229,0,0,1,0-.385l8.278-8.331L11.179.079a.341.341,0,0,0-.438,0L.066,10.79a.315.315,0,0,0,0,.385" transform="translate(-0.001 0.001)" fill="#2e234b" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_92" data-name="Group 92" transform="translate(344 10365.513)">
+        <rect id="Rectangle_143-2" data-name="Rectangle 143" width="1232" height="60" fill="#d2cfdd"/>
+        <text id="What_services_do_you_offer_" data-name="What services do you offer?" transform="translate(40 39)" fill="#2e234b" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">What services do you offer?</tspan></text>
+        <g id="Group_72-3" data-name="Group 72" transform="translate(1170.021 37.506) rotate(-90)">
+          <g id="Group_71-3" data-name="Group 71" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+            <path id="Path_35-3" data-name="Path 35" d="M.066,11.175,2.9,14.01l2.293-2.293v4.6L10.742,21.9a.4.4,0,0,0,.438,0l2.328-2.38L5.229,11.175a.229.229,0,0,1,0-.385l8.278-8.331L11.179.079a.341.341,0,0,0-.438,0L.066,10.79a.315.315,0,0,0,0,.385" transform="translate(-0.001 0.001)" fill="#2e234b" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_93" data-name="Group 93" transform="translate(344 10455)">
+        <rect id="Rectangle_143-3" data-name="Rectangle 143" width="1232" height="60" fill="#d2cfdd"/>
+        <text id="Can_you_help_market_my_book_after_it_s_published_" data-name="Can you help market my book after it’s published?" transform="translate(40 39)" fill="#2e234b" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Can you help market my book after it’s published?</tspan></text>
+        <g id="Group_72-4" data-name="Group 72" transform="translate(1170.021 37.506) rotate(-90)">
+          <g id="Group_71-4" data-name="Group 71" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+            <path id="Path_35-4" data-name="Path 35" d="M.066,11.175,2.9,14.01l2.293-2.293v4.6L10.742,21.9a.4.4,0,0,0,.438,0l2.328-2.38L5.229,11.175a.229.229,0,0,1,0-.385l8.278-8.331L11.179.079a.341.341,0,0,0-.438,0L.066,10.79a.315.315,0,0,0,0,.385" transform="translate(-0.001 0.001)" fill="#2e234b" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_94" data-name="Group 94" transform="translate(344 10545)">
+        <rect id="Rectangle_143-4" data-name="Rectangle 143" width="1232" height="60" fill="#d2cfdd"/>
+        <text id="How_long_does_the_publishing_process_take_" data-name="How long does the publishing process take?" transform="translate(40 39)" fill="#2e234b" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">How long does the publishing process take?</tspan></text>
+        <g id="Group_72-5" data-name="Group 72" transform="translate(1170.021 37.506) rotate(-90)">
+          <g id="Group_71-5" data-name="Group 71" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+            <path id="Path_35-5" data-name="Path 35" d="M.066,11.175,2.9,14.01l2.293-2.293v4.6L10.742,21.9a.4.4,0,0,0,.438,0l2.328-2.38L5.229,11.175a.229.229,0,0,1,0-.385l8.278-8.331L11.179.079a.341.341,0,0,0-.438,0L.066,10.79a.315.315,0,0,0,0,.385" transform="translate(-0.001 0.001)" fill="#2e234b" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

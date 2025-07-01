@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="105" viewBox="0 0 320 105">
+  <defs>
+    <filter id="Rectangle_3" x="0" y="0" width="320" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_31" data-name="Group 31" transform="translate(-669 -1775)">
+    <g transform="matrix(1, 0, 0, 1, 669, 1775)" filter="url(#Rectangle_3)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="260" height="45" transform="translate(23 23)" fill="#2e234b"/>
+    </g>
+    <text id="Live_Chat" data-name="Live Chat" transform="translate(822 1828)" fill="#f3f2fa" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-46" y="0">Live Chat</tspan></text>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="3" cy="3" r="3" transform="translate(868 1810)" fill="#00ff4c"/>
+  </g>
+</svg>

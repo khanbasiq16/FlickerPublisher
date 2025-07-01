@@ -1,0 +1,22 @@
+<svg id="Component_6_1" data-name="Component 6 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="536" height="355" viewBox="0 0 536 355">
+  <defs>
+    <filter id="Rectangle_17" x="7" y="219" width="320" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_134" data-name="Rectangle 134" width="536" height="355" fill="#fff"/>
+  <g id="Group_55" data-name="Group 55" transform="translate(-692 -6339)">
+    <text id="eBook_Marketing" data-name="eBook Marketing" transform="translate(722 6433)" fill="#2e234b" font-size="30" font-family="Distrampler"><tspan x="0" y="0">eBook Marketing</tspan></text>
+    <text id="We_help_authors_and_their_masterpieces_become_the_next_bestseller_with_visibility_via_social_media_and_email_campaigns_Amazon_ads_TikTok_marketing_and_influencer_outreach." data-name="We help authors and their masterpieces become the next bestseller with visibility via social media and email campaigns, Amazon ads, TikTok marketing, and influencer outreach." transform="translate(722 6455)" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="19">We help authors and their masterpieces become </tspan><tspan x="0" y="46">the next bestseller with visibility via social media </tspan><tspan x="0" y="73">and email campaigns, Amazon ads, TikTok </tspan><tspan x="0" y="100">marketing, and influencer outreach.</tspan></text>
+    <g id="Group_52" data-name="Group 52" transform="translate(552 398)">
+      <g transform="matrix(1, 0, 0, 1, 140, 5941)" filter="url(#Rectangle_17)">
+        <rect id="Rectangle_17-2" data-name="Rectangle 17" width="260" height="45" transform="translate(30 242)" fill="#2e234b"/>
+      </g>
+      <text id="Start_Your_Project" data-name="Start Your Project" transform="translate(300 6213)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-86" y="0">Start Your Project</tspan></text>
+    </g>
+  </g>
+</svg>

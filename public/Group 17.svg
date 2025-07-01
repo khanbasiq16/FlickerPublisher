@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="363" height="63" viewBox="0 0 363 63">
+  <defs>
+    <filter id="Rectangle_7" x="0" y="0" width="363" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(-138 -694)">
+    <g transform="matrix(1, 0, 0, 1, 138, 694)" filter="url(#Rectangle_7)">
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" width="345" height="45" transform="translate(2 4)" fill="#f3f2fa"/>
+    </g>
+    <text id="Get_a_FREE_1:1_ebook_coaching_session" data-name="Get a FREE 1:1 ebook coaching session" transform="translate(162 726.579)" fill="#2e234b" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Get a FREE 1:1 ebook coaching session</tspan></text>
+  </g>
+</svg>

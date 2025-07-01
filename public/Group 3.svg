@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="598" height="25" viewBox="0 0 598 25">
+  <g id="Group_3" data-name="Group 3" transform="translate(-715 -96)">
+    <text id="Home" transform="translate(715 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Home</tspan></text>
+    <text id="About_Us" data-name="About Us" transform="translate(792 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">About Us</tspan></text>
+    <text id="Services" transform="translate(895 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Services</tspan></text>
+    <text id="Pricing" transform="translate(992 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Pricing</tspan></text>
+    <text id="Faqs" transform="translate(1075 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Faqs</tspan></text>
+    <text id="Blogs" transform="translate(1141 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Blogs</tspan></text>
+    <text id="Contact_Us" data-name="Contact Us" transform="translate(1213 115)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Contact Us</tspan></text>
+  </g>
+</svg>

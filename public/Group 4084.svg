@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="843" height="617" viewBox="0 0 843 617">
+  <defs>
+    <filter id="Rectangle_3" x="0" y="512" width="320" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17" x="276" y="512" width="320" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4084" data-name="Group 4084" transform="translate(-117 -2349)">
+    <text id="Bring_your_epic_idea_to_an_NYTimes_Bestseller_2X_faster_" data-name="Bring your epic idea to an NYTimes Bestseller — 2X faster!" transform="translate(140 2415)" fill="#2e234b" font-size="60" font-family="Distrampler"><tspan x="0" y="51">Bring your epic idea to an </tspan><tspan x="0" y="119">NYTimes Bestseller — 2X faster!</tspan></text>
+    <text id="Why_Choose_Fleck_Publisher" data-name="Why Choose Fleck Publisher" transform="translate(140 2383)" fill="#2e234b" font-size="40" font-family="Distrampler"><tspan x="0" y="0">Why Choose Fleck Publisher</tspan></text>
+    <text id="Faster_and_Smarter_-_Fleck-Way_Whether_this_is_your_first_book_or_fifth_we_understand_you_crave_a_specific_voice_and_tone_for_your_words_but_you_also_need_structure_and_support_through_this_beautiful_yet_challenging_self-publishing_journey._Fleck_Pub" data-name="Faster and Smarter - Fleck-Way!
+
+Whether this is your first book or fifth, we understand you crave a specific voice and tone for your words — but you also need structure and support through this beautiful yet challenging self-publishing journey. 
+Fleck Pub" transform="translate(140 2576)" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="21">Faster and Smarter - Fleck-Way!</tspan><tspan font-family="Poppins-Regular, Poppins" font-weight="400"><tspan x="0" y="51"></tspan><tspan x="0" y="81">Whether this is your first book or fifth, we understand you crave a specific voice </tspan><tspan x="0" y="111">and tone for your words — but you also need structure and support through this </tspan><tspan x="0" y="141">beautiful yet challenging self-publishing journey. </tspan><tspan x="0" y="171">Fleck Publisher has a team of REAL subject-matter experts, editors, proofreaders, </tspan><tspan x="0" y="201">designers, publishing personnel and experienced book marketing strategists — </tspan><tspan x="0" y="231">so you can hand off the hard parts of the publishing process — that’ll set your </tspan><tspan x="0" y="261">book apart in the crowded marketplace.</tspan></tspan></text>
+    <g id="Group_31" data-name="Group 31" transform="translate(-552 1086)">
+      <g transform="matrix(1, 0, 0, 1, 669, 1263)" filter="url(#Rectangle_3)">
+        <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(23 535)" fill="#f3f2fa" stroke="#2e234b" stroke-width="1">
+          <rect width="260" height="45" stroke="none"/>
+          <rect x="0.5" y="0.5" width="259" height="44" fill="none"/>
+        </g>
+      </g>
+      <text id="Start_Project" data-name="Start Project" transform="translate(822 1828)" fill="#2e234b" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-61" y="0">Start Project</tspan></text>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(-552 1086)">
+      <g transform="matrix(1, 0, 0, 1, 669, 1263)" filter="url(#Rectangle_17)">
+        <rect id="Rectangle_17-2" data-name="Rectangle 17" width="260" height="45" transform="translate(299 535)" fill="#2e234b"/>
+      </g>
+      <text id="Submit_Your_Book" data-name="Submit Your Book" transform="translate(1099 1828)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-88" y="0">Submit Your Book</tspan></text>
+    </g>
+  </g>
+</svg>
