@@ -35,27 +35,27 @@ const GridComponent = () => {
   return (
     <div className="bg-[#F3F2FA] w-full py-16 px-3 md:px-10 xl:px-20 ">
       <div className="text-center mb-10">
-        <h1 className="text-2xl md:text-4xl  text-[#2E234B] custom-font">
+        <h1 className="text-2xl md:text-4xl 3xl:text-[3vw]  mb-5 3xl:mb-10  text-[#2E234B] custom-font">
           Premium Self-Publishing Services
         </h1>
-        <p className="text-[#2E234B] mt-4 max-w-2xl mx-auto text-sm md:text-base">
+        <p className="text-[#2E234B] mt-4 max-w-2xl 3xl:max-w-5xl 3xl:text-[1.2vw] 3xl:leading-tight mx-auto text-sm md:text-base">
           We do collaborative and independent writing and editing workshops,
           execute from planning to publishing and everything in between.
         </p>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 ">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 ">
         {services.map((service, index) => (
           <div
             key={index}
-            className="bg-white group transition-all duration-300 hover:bg-[#2E234B] p-6  flex flex-col justify-between text-[#2E234B] hover:text-white"
+            className="bg-white group transition-all duration-300 hover:bg-[#2E234B] px-7 py-10  3xl:px-10 3xl:py-16 flex flex-col justify-between text-[#2E234B] hover:text-white"
           >
-            <h3 className="text-lg xl:text-xl font-semibold mb-2 group-hover:text-white custom-font">
+            <h3 className="text-lg xl:text-xl 3xl:text-[1.5vw] mb-2 group-hover:text-white custom-font">
               {service.title}
             </h3>
-            <p className="text-sm mb-4 group-hover:text-white">
+            <p className="md:text-[1vw] mb-4 group-hover:text-white">
               {service.description}
             </p>
-            <button className="self-start mt-auto border border-[#2E234B] group-hover:border-white bg-[#2E234B] group-hover:bg-white text-white group-hover:text-[#2E234B] px-8 py-0 pb-1 text-sm transition-all duration-300">
+            <button  className="self-start text-[1vw] mt-3 border py-2 border-[#2E234B] group-hover:border-white bg-[#2E234B] group-hover:bg-white text-white group-hover:text-[#2E234B] px-8   text-sm transition-all duration-300">
               Share you project
             </button>
           </div>

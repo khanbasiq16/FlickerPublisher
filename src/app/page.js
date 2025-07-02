@@ -7,7 +7,7 @@ import GridComponent from "./components/GridComponent";
 import Hero from "./components/Hero";
 import StoneLaptop from "./components/StoneLaptop";
 import SuccessStories from "./components/SuccessStories";
-import VideoSection from "./components/videoSection";
+import VideoSection from "./components/VideoSection";
 import Wordingsection from "./components/Wordingsection";
 
 

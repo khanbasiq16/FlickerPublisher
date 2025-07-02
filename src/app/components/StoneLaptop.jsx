@@ -1,14 +1,13 @@
 import React from "react";
-
 const StoneLaptop = () => {
     return (
-        <div className="w-full relative  xl:mt-0 2xl:mt-10">
+        <div className="w-full relative  xl:mt-36 2xl:mt-10">
             <img
                 className="absolute lg:h-[80vh] xl:h-[95vh]  bottom-0 right-0 object-cover z-0 hidden lg:block"
                 src={`/Layer 1.png`}
                 alt="Laptop Illustration"
             />
-            <div className="relative z-10 flex flex-col lg:pt-24 pt-16 pb-10 lg:pl-16 pl-6 pr-6 gap-4 w-full xl:w-[50%] lg:w-[60%] leading-snug">
+            <div className="relative z-10 flex flex-col lg:pt-24 3xl:pt-32 pt-16 pb-10 lg:pl-16 pl-6 pr-6 gap-4  w-full xl:w-[50%]   lg:w-[60%] leading-snug">
                 <h1 className="text-2xl lg:text-4xl 2xl:mb-3 xl:text-4xl 2xl:text-[3vw] text-[#2E234B] custom-font ">
                     Author Website Development
                 </h1>

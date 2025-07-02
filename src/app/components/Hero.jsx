@@ -15,7 +15,7 @@ const Hero = () => {
           autoPlay
           muted
           loop
-          className="absolute top-0 left-0 w-full h-full object-cover mix-blend-overlay opacity-70 z-0"
+          className="absolute top-0 left-0 w-full h-full object-cover mix-blend-screen opacity-70 z-0"
         ></video>
 
         {/* Content goes here */}
@@ -48,13 +48,13 @@ const Hero = () => {
 
                 <div className=" w-full flex  my-2 md:flex-row md:justify-center lg:justify-start lg:flex-row flex-col text-xl gap-2 items-center ">
               <p className="text-base addregfont lg:text-xs xl:text-sm 2xl:text-xl 3xl:text-2xl">
-                4.6/5 Stars{" "}
+                Rated 9.4 Out Of 10{" "}
               </p>
               <p className="text-base addregfont lg:text-xs xl:text-sm 2xl:text-xl 3xl:text-2xl">
-                | Trusted by 35+ Authors |
+                ★★★★★
               </p>
               <span className="text-base addregfont lg:text-xs xl:text-sm 2xl:text-xl 3xl:text-2xl">
-                15+ Publishing Partners
+                Based On 2,389 Satisfied Customers.
               </span>
             </div>
 
@@ -75,7 +75,7 @@ const Hero = () => {
       </section>
 
 
-          <div className="w-full  flex justify-center   absolute bottom-[-32%]  md:bottom-[-70%]   lg:bottom-[-34%] xl:bottom-[-60%]   2xl:bottom-[-30%] 3xl:bottom-[-37%] z-20   bg-transparent px-4  lg:px-14 xl:px-24">
+          <div className="w-full  flex justify-center   absolute bottom-[-40%]  md:bottom-[-70%]   lg:bottom-[-34%] xl:bottom-[-30%]   2xl:bottom-[-30%] 3xl:bottom-[-24%] z-20   bg-transparent px-4  lg:px-14 xl:px-24 3xl:px-56">
           <Formdata />
         </div>
 

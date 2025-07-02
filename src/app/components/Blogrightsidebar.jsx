@@ -10,7 +10,7 @@ const Blogrightsidebar = () => {
         <h2 className="text-2xl custom-font md:text-3xl lg:text-3xl  xl:text-3xl  2xl:text-3xl 3xl:text-3xl !leading-tight Dmseridisplay">
          Why Choose Fleck Publisher
         </h2>
-        <h2 className="text-2xl custom-font md:text-4xl lg:text-4xl  xl:text-4xl  2xl:text-5xl 3xl:text-7xl !leading-tight Dmseridisplay">
+        <h2 className="text-2xl custom-font md:text-4xl lg:text-4xl  xl:text-4xl  2xl:text-5xl 3xl:text-6xl !leading-tight Dmseridisplay">
       Bring your epic idea to an NYTimes Bestseller – 2X faster!
         </h2>
         <div className="flex flex-col ">
@@ -36,15 +36,29 @@ From editing to marketing, we handle everything so you can focus on writing.
   </button>
         </div>
       </div>
-      <div
-        className="w-full lg:w-1/2   "
-        style={{
-          backgroundImage: `url('/groupimages.png')`,
-          backgroundPosition: "center",
-          backgroundRepeat: "no-repeat",
-          backgroundSize: "contain",
-        }}
-      ></div>
+      {/* <div className="w-1/2 h-full border border-red-500">
+          <div>
+            <img className="h-[60vh] " src={`/DangerBook.png`} alt="" />
+          </div>
+      </div> */}
+     {/* <div
+  className="w-full lg:w-1/2 h-64 md:h-96 lg:h-[32rem] xl:h-[28rem] border border-red-500"
+  style={{
+    backgroundImage: "url('/DangerBook.png')",
+    backgroundPosition: "center",
+    backgroundRepeat: "no-repeat",
+    backgroundSize: "contain",
+  }}
+></div> */}
+<div className="w-full lg:w-1/2 relative h-64 md:h-96 lg:h-[32rem] xl:h-[28rem] 3xl:h-[40rem] ">
+  <div
+    className=" absolute inset-0 2xl:w-full 2xl:h-full  xl:left-20 2xl:left-20 bg-no-repeat bg-contain bg-center"
+    style={{
+      backgroundImage: "url('/DangerBook.png')",
+    }}
+  ></div>
+</div>
+
     </section>
   );
 };
